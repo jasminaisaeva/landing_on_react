@@ -1,0 +1,112 @@
+.mainPage {
+    background-color: #F4F9E2;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.mainPage nav{
+    display: flex;
+    justify-content: center;
+    /* margin-top: 10px; */
+    
+  
+    
+}
+.mainPage nav span{
+position: absolute;
+width: 484px;
+height: 27px;
+left: 179px;
+top: 44px;
+font-family: Larsseit;
+font-size: 28px;
+line-height: 27px;
+letter-spacing: -0.035em;
+color: #62D0DF;
+}
+
+.mainPage nav ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+.mainPage nav ul li  {
+  margin-right: 10px;
+  margin-top: 38px;
+  cursor: pointer;
+}
+
+.mainBlock{
+    display: flex;
+    justify-content: space-between;
+  
+    
+}
+.mainButton{
+position: absolute;
+width: 150px;
+height: 50px;
+left: 1159px;
+top: 27px;
+cursor: pointer;
+background: #62D0DF;
+border-radius: 50px;
+border-color:#62D0DF ;
+color:white;
+}
+.mainBlocP{
+    font-family: Larsseit;
+    font-size: 27px;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+    margin-top: 180px;
+    color: #62D0DF;
+}
+.mainBlock h1 {
+font-family: Larsseit;
+font-size: 40px;
+line-height: 53px;
+letter-spacing: -0.035em;
+color: #22356F;
+}
+.mainBlocP1 {
+font-family: Larsseit;
+font-size: 24px;
+line-height: 42px;
+color: #22356F;
+}
+.mainBlockButton1{
+background: #F9B640;
+position: absolute;
+border-color: #F9B640;
+color:white;
+width: 150px;
+height: 50px;
+left: 179px;
+top: 715px;
+font-family: Larsseit;
+font-size: 16px;
+line-height: 23px;
+cursor: pointer;
+}
+.mainBlockButoon2{
+    position: absolute;
+    width: 150px;
+    height: 43px;
+    left: 367px;
+    top: 718px;
+    font-family: Larsseit;
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    background-color:#F4F9E2;
+    border-color:#F4F9E2;
+    color: #FAB63E;
+    cursor: pointer;
+    
+}
+
